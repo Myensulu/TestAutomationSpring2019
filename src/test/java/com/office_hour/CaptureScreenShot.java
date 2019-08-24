@@ -1,6 +1,6 @@
 package com.office_hour;
 
-import com.utilities.SeleniumUtils;
+import com.cybertek.utilities.SeleniumUtils;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

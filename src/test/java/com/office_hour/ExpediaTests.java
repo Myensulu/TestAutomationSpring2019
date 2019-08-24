@@ -1,7 +1,7 @@
 package com.office_hour;
 
-import com.utilities.BrowserFactory;
-import com.utilities.SeleniumUtils;
+import com.cybertek.utilities.BrowserFactory;
+import com.cybertek.utilities.SeleniumUtils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
